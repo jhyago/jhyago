@@ -1,4 +1,4 @@
-<h3 align="center">A Software Engineer</h3>
+<h3 align="center">A Software Engineer from Brazil</h3>
 
 <br/>
 
@@ -26,8 +26,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=vuejs,bootstrap,laravel,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,php,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,postgre" /><br>
+  <img width=390 src="https://github-readme-streak-stats-jhyago.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-jhyago.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
 </div>
 
 <br/>
