@@ -8,7 +8,7 @@
  
  🌱 I’m currently learning **Design Patterns and Complex Data Structures**
 
-💬 Ask me about **PHP, Laravel, Java, Spring Boot, JS, TS or anything [here](https://github.com/jhyago/jhyago/issues)**
+💬 Ask me about **PHP, Laravel, Java, Spring, JS, TS or anything [here](https://github.com/jhyago/jhyago/issues)**
 
  </div>
  
@@ -26,8 +26,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=vuejs,react,bootstrap,html,css,vscode,github,figma,tailwind,git" />
-  <img src="https://skillicons.dev/icons?i=nodejs,php,laravel,javascript,typescript,express,firebase,mongodb,c,java,spring,nextjs,mysql,postgresql" /><br>
+  <img src="https://skillicons.dev/icons?i=vscode,git,html,css,figma,vuejs,react,nextjs,bootstrap,tailwind" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,java,spring,javascript,nodejs,typescript,express,c,firebase,mongodb,mysql,postgresql" /><br>
 </div>
 
 <br/>
