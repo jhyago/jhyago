@@ -8,7 +8,7 @@
  
  🌱 I’m currently learning **Design Patterns and Complex Data Structures**
 
-💬 Ask me about **PHP, Laravel, Java, Spring, JS, TS or anything [here](https://github.com/jhyago/jhyago/issues)**
+💬 Ask me about **Java, Spring, PHP, Laravel, JS, TS or anything [here](https://github.com/jhyago/jhyago/issues)**
 
  </div>
  
