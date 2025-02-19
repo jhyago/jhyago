@@ -26,8 +26,8 @@
 <h2 align="center">Languages - Frameworks - Tools</h2>
 <br/>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,git,html,css,figma,vuejs,react,bootstrap,tailwind" />
-  <img src="https://skillicons.dev/icons?i=php,laravel,java,spring,javascript,nodejs,typescript,c,firebase,mongodb,mysql,postgresql" /><br>
+  <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,tailwind,figma" />
+  <img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,php,laravel,javascript,nodejs,docker,git,mysql,postgresql" /><br>
 </div>
 
 <br/>
