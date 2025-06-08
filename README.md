@@ -1,44 +1,30 @@
-<h3 align="center">A Software Engineer from Brazil</h3>
-
-<br/>
+<h3 align="center">👨‍💻 Software Engineer & Instructor | 🎓 M.Sc. Candidate in Computer Engineering</h3>
 
 <div align="center">
- 
- 🔭 I’m currently working as tech lead and programming instructor
- 
- 🌱 I’m currently learning **Design Patterns and Complex Data Structures**
+ I’m currently a <strong>Tech Lead</strong>, specializing in <strong>Web Development</strong> & <strong>DevOps</strong>, and a <strong>Programming Instructor</strong><br>
+  🧬 Researching <strong>Machine Learning</strong>, <strong>Deep Learning</strong> & <strong>Neural Networks</strong> in <strong>Bioinformatics</strong> as a Master's student in Computer Engineering<br>
+  
+  💬 Feel free to ask me anything <a href="https://github.com/jhyago/jhyago/issues">here</a>
+</div>
 
-💬 Ask me about anything [here](https://github.com/jhyago/jhyago/issues)
-
- </div>
- 
-<div align="center"> 
+<div align="center">
   <a href="https://www.linkedin.com/in/jaques-antunes/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
 
- <hr/>
- 
-<h2 align="center">Languages - Frameworks - Tools</h2>
-<br/>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,tailwind,figma" />
-  <img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,php,laravel,javascript,nodejs,docker,git,mysql,postgresql" /><br>
-</div>
-
-<br/>
 <hr/>
 
-<h2 align="center">Statistics</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://streak-stats.demolab.com/?user=jhyago&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=jhyago&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhyago&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,scikitlearn,tensorflow,pytorch,java,spring,php,django,fastapi,c,html,css,bootstrap,tailwind,figma,js,react,docker,kubernetes,githubactions,aws,azure,mysql,postgresql" />
 </div>
 
-<br/><br/>
+<hr/>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=jhyago&theme=react&border_radius=10&count_private=true" alt="🔥 GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jhyago&show_icons=true&theme=react&border_radius=10&count_private=true" alt="📈 GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jhyago&layout=compact&theme=react&border_radius=10&langs_count=8" alt="🔝 Top Languages" />
+</div>
 
 <hr/>
