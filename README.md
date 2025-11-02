@@ -1,4 +1,4 @@
-<h3 align="center">👨‍💻 Software Engineer & Instructor | 🎓 M.Sc. student in Computer Engineering</h3>
+<h3 align="center">👨‍💻 Software Engineer & Instructor | 🎓 M.Sc. Student in Computer Engineering</h3>
 
 <div align="center">
  I’m currently a <strong>Tech Lead</strong>, specializing in <strong>Web Development</strong> & <strong>DevOps</strong>, and a <strong>Programming Instructor</strong><br>
