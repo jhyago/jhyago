@@ -18,6 +18,3 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,python,fastapi,js,nodejs,html,css,bootstrap,tailwind,react,nextjs,docker,aws,azure,mysql,postgresql" />
 </div>
-
-<hr/>
-<hr/>
