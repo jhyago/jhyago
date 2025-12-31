@@ -20,11 +20,4 @@
 </div>
 
 <hr/>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=jhyago&theme=react&border_radius=10&count_private=true" alt="🔥 GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api?username=jhyago&show_icons=true&theme=react&border_radius=10&count_private=true" alt="📈 GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jhyago&layout=compact&theme=react&border_radius=10&langs_count=8" alt="🔝 Top Languages" />
-</div>
-
 <hr/>
